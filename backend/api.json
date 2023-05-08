@@ -1,0 +1,39 @@
+ {
+    "label": "Company name",
+    "type": "input",
+    "max_length": 30,
+    "color": "blue"
+  },
+  { "label": "Date of opening", "type": "date", "max_length": null, "color": null },
+  {
+    "label": "Email",
+    "type": "password",
+    "max_length": 10,
+    "color": "blue",
+    "info": "The email address must be atleast 10 characters long"
+
+  },
+  {
+    "label": "Password",
+    "type": "password",
+    "max_length": 6,
+    "color": "blue"
+  },
+  {
+    "label": "Phone number",
+    "type": "number",
+    "max_length": 5,
+    "color": "blue",
+    "info": "The phone number should be a valid 10 digit number through which OTP can be received"
+  },
+  {
+    "label": "Are you an employee?",
+    "type": "checkbox",
+    "checked": "true"
+  },
+  {
+    "label": "Tell us about your company",
+    "type": "textarea",
+    "max_length": 50
+  }
+

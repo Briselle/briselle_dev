@@ -1,0 +1,60 @@
+[
+    {
+        "obj_id":"OBJ101",
+        "field_id":"FLD101",
+        "field_json":
+            {
+                "fld_name":"Name",
+                "fld_datatype":"text",
+                "max_character":"50",
+                "fld_placeholder":"Enter name"
+            }
+        
+    },
+    {
+        "obj_id":"OBJ101",
+        "field_id":"FLD102",
+        "field_json":
+            {
+                "fld_name":"Last Name",
+                "fld_datatype":"text",
+                "max_character":"50",
+                "fld_placeholder":"Enter last name"
+            }
+        
+    },
+    {
+        "obj_id":"OBJ101",
+        "field_id":"FLD103",
+        "field_json":
+            {
+                "fld_name":"Number",
+                "fld_datatype":"number",
+                "max_character":"50",
+                "fld_placeholder":"Enter phone number"
+            }
+    },
+    {
+        "obj_id":"OBJ101",
+        "field_id":"FLD104",
+        "field_json":
+            {
+                "fld_name":"Email",
+                "fld_datatype":"email",
+                "max_character":"50",
+                "fld_placeholder":"Enter email"
+            }
+    },
+    {
+        "obj_id":"OBJ101",
+        "field_id":"FLD105",
+        "field_json":
+            {
+                "fld_name":"Date of joining",
+                "fld_datatype":"date",
+                "max_character":"50",
+                "fld_placeholder":"Enter the date"
+            }
+        
+    }
+]
